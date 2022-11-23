@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/hopewu0320/DM_LAB2/blob/master/data/train_df.pkl
+HostUrl=https://raw.githubusercontent.com/hopewu0320/DM_LAB2/master/data/train_df.pkl
